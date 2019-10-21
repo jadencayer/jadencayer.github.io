@@ -26,9 +26,9 @@
 	height: 100%;
 	position: fixed;
 	top: 0;
-	left: 200px;
+	left: 250px;
 	right: 0;
-	width: 100%-200px;
+	width: 100%-250px;
 }
 #video-background {
 	background: #000;
