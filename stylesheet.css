@@ -10,6 +10,13 @@
 	line-height: 30px;
 	color: GhostWhite;
 }
+a:link {
+	color: GhostWhite;
+	text-decoration: none;
+}
+a:hover {
+	font-weight: bold;
+}
 #buttonPanel {
 	width: 100%;
 	height: 80px;
