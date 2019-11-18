@@ -1,5 +1,6 @@
 .center {
 	text-align:center;
+	display:block;
 }
 .font1 {
 	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
